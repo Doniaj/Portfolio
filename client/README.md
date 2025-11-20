@@ -12,7 +12,7 @@
 </div>
 
 ## Live Website
-[https://doniajlidi.com](https://doniajlidi.com) (or your Vercel link after deployment)
+(https://portfolio-cwpz.vercel.app/) 
 
 ## Features
 - Modern, responsive portfolio built with **Next.js 14 (App Router)** + **Tailwind CSS**
