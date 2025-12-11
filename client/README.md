@@ -12,7 +12,7 @@
 </div>
 
 ## Live Website
-[https://doniajlidi.com](https://doniajlidi.com) (or your Vercel link after deployment)
+https://portfolio-cwpz.vercel.app/
 
 ## Features
 - Modern, responsive portfolio built with **Next.js 14 (App Router)** + **Tailwind CSS**
@@ -30,6 +30,6 @@ React • Next.js • Tailwind CSS • TypeScript • Vercel
 ## Quick Deploy
 ```bash
 git clone https://github.com/DoniaJ/Portfolio.git
-cd Portfolio
+cd client
 npm install
 npm run dev

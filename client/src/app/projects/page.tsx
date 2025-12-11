@@ -21,9 +21,29 @@ const Projects: React.FC = () => {
 
     const projects: Project[] = [
         {
+title: "Accountability Buddy",
+description:
+"A microservices-based web application where two people choose a goal and keep each other accountable. Features goal creation, partner invites, daily check-ins, streak tracking, real-time updates, notifications, and strong security.",
+technologies: [
+"Next.js 14",
+"TypeScript",
+"NestJS",
+"Microservices",
+"MongoDB",
+"Mongoose",
+"JWT",
+"HTTP-only Cookies",
+"Rate Limiting",
+"CSRF Protection",
+],
+category: "Full Stack",
+image: "/images/accountability-buddy.jpg",
+featured: true,
+},
+        {
             title: "Chatbot-Based Appointment Scheduling System (PFE)",
             description: "Intelligent automated appointment scheduling system via phone calls using a voice chatbot. Features real-time calendar integration, admin/super-admin dashboards, instant confirmations, conflict management, notifications, and waitlist handling.",
-            technologies: ["React.js", "Node.js", "PostgreSQL", "Flask", "STT/TTS", "Socket.io", "Cron Jobs", "Docker", "CI/CD"],
+            technologies: ["React.js", "Node.js", "PostgreSQL", "Flask","Python","FastAPI","NLP", "STT/TTS", "Socket.io","Websocket", "Cron Jobs", "Docker", "CI/CD"],
             category: "Full Stack",
             liveUrl: "",
             githubUrl: "",
