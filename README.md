@@ -1,7 +1,7 @@
 # Donia Jlidi – Full Stack Developer Portfolio
 
 <div align="center">
-  <img src="public/images/donia-photo.jpg" alt="Donia Jlidi" width="180" style="border-radius: 50%; border: 6px solid #3b82f6;" />
+  <img src="client/public/images/donia-photo.jpg" alt="Donia Jlidi" width="180" style="border-radius: 50%; border: 6px solid #3b82f6;" />
   <h1>Hi, I'm Donia Jlidi</h1>
   <p><strong>Software Engineer • Full Stack Developer • Graduating 2025</strong></p>
 
